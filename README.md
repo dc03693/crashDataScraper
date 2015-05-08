@@ -1,3 +1,8 @@
+#crashDataScraper
+Project for the Bio-Statistics Department
+
+This project was to scrape crash statistic data from a website for the Georgia Southern University's Bio-Statistics Department.  The Windows Form Application uses a webbrowser control to automatically change the values of the website's variables, waits for a response and then copies the results into a tesxt file.
+
 # DeliverySystem
 Database Project for a Delivery System
 
